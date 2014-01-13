@@ -22,4 +22,10 @@ spider.get = function(url, callback){
 	});
 };
 
+/**
+ * test download function
+ */
+spider.download = function(){
+
+}
 exports.get = spider.get;
